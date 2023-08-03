@@ -13,7 +13,7 @@ There is, of course, a `Mod Manager: Server` Mod, but I've read that sometimes i
 1. Create a Preset in the Mod Manager and remember the preset name:
 ![image](https://github.com/WalterWoshid/zomboid-mod-config-helper/assets/36635504/7db9c184-a926-4456-bcd8-e3626db7f789)
 
-2. Download the script and place it anywhere: https://www.mediafire.com/file/0fgthk4oiswwq7h/ZomboidModConfigHelper.ps1/file
+2. Download the script and place it anywhere: [ZomboidModConfigHelper.ps1](/ZomboidModConfigHelper.ps1)
 
 If you don't trust the script, either check the code yourself or paste it into ChatGPT and ask him if it is safe :)
 
